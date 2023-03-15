@@ -287,6 +287,11 @@ textarea {
 	width: 700px !important;
 }
 
+.inner p {
+	text-align: justify;
+	text-justify: inter-word;
+}
+
 /* Basic */
 
 @-ms-viewport {
